@@ -20,8 +20,8 @@ Here are the technologies I’m skilled in and currently exploring:
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,java,python,django,postgresql" alt="Tech Stack"/>
 </div>
 
-- **Frontend**: HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, React
-- **Backend**: Python, Django REST Framework, Java
+- **Frontend**: HTML, CSS, Tailwind CSS, JavaScript, React
+- **Backend**: Python, Django REST Framework, Java, Graphql
 - **Database**: PostgreSQL
 - **Interests**: Web Development, Mobile Development, LoRaWAN Technology, Gateway Technology, Machine Learning
 
