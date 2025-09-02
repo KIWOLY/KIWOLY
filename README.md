@@ -59,8 +59,6 @@ Let’s stay in touch! Reach out to me on:
 
 
 
-## Projects
-*Coming soon!* I’m working on exciting projects in web and mobile development, IoT with LoRaWAN, and machine learning. Stay tuned for updates!
 
 
 
