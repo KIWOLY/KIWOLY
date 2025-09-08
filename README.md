@@ -2,7 +2,7 @@
 
 <div align="center">
   <h1 style="font-size: 2.5rem; font-weight: bold;">Innocent John Kiwoly</h1>
-  <p style="font-size: 1.2rem;">Second-Year Information Systems Management Student at Ardhi University</p>
+  <p style="font-size: 1.2rem;">Third-Year Information Systems Management Student at Ardhi University</p>
 </div>
 
 
