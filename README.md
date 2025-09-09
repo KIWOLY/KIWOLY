@@ -29,7 +29,6 @@ Here are the technologies I’m skilled in and currently exploring:
 
 ## Currently Learning
 - Diving deeper into **Machine Learning** to build intelligent applications.
-- Exploring advanced **React** techniques for dynamic front-end development.
 - Enhancing my skills in **LoRaWAN** and **gateway technologies** for IoT solutions.
 
 
