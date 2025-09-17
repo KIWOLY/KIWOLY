@@ -56,18 +56,3 @@ Let’s stay in touch! Reach out to me on:
   </a>
 </div>
 
-
-
-
-
-
-## Fun Fact
-When I’m not coding, I’m exploring new tech trends, brainstorming innovative project ideas, or enjoying a good book on technology and innovation.
-
-
-
-<div align="center" class="mt-6">
-  <div class="bg-gray-800 text-white p-6 rounded-lg shadow-lg">
-    <p class="text-lg">Thanks for visiting my profile!  Feel free to explore my repositories and reach out for collaboration.</p>
-  </div>
-</div>
