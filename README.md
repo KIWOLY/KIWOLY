@@ -1,4 +1,4 @@
-# 👋 Welcome to My GitHub Profile!
+# Welcome to My GitHub Profile!
 
 <div align="center">
   <h1 style="font-size: 2.6rem; font-weight: bold;">Innocent John Kiwoly</h1>
