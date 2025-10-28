@@ -23,7 +23,7 @@ Here are the technologies I’m skilled in and currently exploring:
 - **Frontend**: HTML, CSS, Tailwind CSS, JavaScript, React, Flutter
 - **Backend**: Python, Django REST Framework, Graphql
 - **Database**: PostgreSQL
-- **Interests**: Web Development, Mobile Development, LoRaWAN Technology, Gateway Technology.
+- **Interests**: Web Development, Mobile Development, IoT development, LoRaWAN Technology, Gateway Technology.
 
 
 
