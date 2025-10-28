@@ -27,11 +27,6 @@ Here are the technologies I’m skilled in and currently exploring:
 
 
 
-## Currently Learning
-- Enhancing my skills in **LoRaWAN** and **gateway technologies** for IoT solutions.
-
-
-
 ## 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KIWOLY&show_icons=true&theme=radical&cache_seconds=60" alt="KIWOLY GitHub Stats"/>
