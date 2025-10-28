@@ -17,7 +17,7 @@ I’m always eager to learn new technologies, collaborate on exciting projects, 
 Here are the technologies I’m skilled in and currently exploring:
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,python,django,postgresql,flutter,IoT" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,python,django,postgresql,flutter,iot" alt="Tech Stack"/>
 </div>
 
 - **Frontend**: HTML, CSS, Tailwind CSS, JavaScript, React, Flutter
