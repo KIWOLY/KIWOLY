@@ -34,8 +34,9 @@ Here are the technologies I’m skilled in and currently exploring:
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KIWOLY&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-trophy.vercel.app/?username=KIWOLY&theme=onedark" alt="GitHub Trophies"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=KIWOLY&show_icons=true&theme=radical&cache_seconds=60" alt="KIWOLY GitHub Stats"/>
+  <img src="https://github-readme-trophy.vercel.app/?username=KIWOLY&theme=onedark" alt="KIWOLY GitHub Trophies"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KIWOLY&theme=radical" alt="KIWOLY GitHub Streak"/>
 </div>
 
 
