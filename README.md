@@ -36,7 +36,7 @@ Here are the technologies I’m skilled in and currently exploring:
 </div>
 
 
-
+[![committers.top badge](https://user-badge.committers.top/tanzania/KIWOLY.svg)](https://user-badge.committers.top/tanzania/KIWOLY)
 
 ## Connect with Me
 Let’s stay in touch! Reach out to me on:
