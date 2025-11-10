@@ -3,7 +3,10 @@
 
 <div align="center">
   <h1 style="font-size: 2.6rem; font-weight: bold;">Innocent John Kiwoly</h1>
+    <p style="font-size: 1.2rem;">[![committers.top badge](https://user-badge.committers.top/tanzania/KIWOLY.svg)](https://user-badge.committers.top/tanzania/KIWOLY) </p>
   <p style="font-size: 1.2rem;">Third-Year Information Systems Management Student at Ardhi University</p>
+
+  
 </div>
 
 
@@ -36,7 +39,7 @@ Here are the technologies I’m skilled in and currently exploring:
 </div>
 
 
-[![committers.top badge](https://user-badge.committers.top/tanzania/KIWOLY.svg)](https://user-badge.committers.top/tanzania/KIWOLY)
+
 
 ## Connect with Me
 Let’s stay in touch! Reach out to me on:
