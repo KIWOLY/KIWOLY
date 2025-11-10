@@ -1,13 +1,8 @@
-## User Info
-- Current time: November 10, 2025 03:14 PM EAT
-- Country: TZ
 
 # Welcome to My GitHub Profile!
 <div align="center">
   <h1 style="font-size: 2.6rem; font-weight: bold;">Innocent John Kiwoly</h1>
 
-  <!-- Rank badge in header -->
-  [![committers.top rank](https://user-badge.committers.top/tanzania_rank/KIWOLY.svg)](https://user-badge.committers.top/tanzania/KIWOLY)
 
   <p style="font-size: 1.2rem;">Third-Year Information Systems Management Student at Ardhi University</p>
 </div>
@@ -29,11 +24,13 @@ I’m always eager to learn new technologies, collaborate on exciting projects, 
 
 ## GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KIWOLY&show_icons=true&theme=radical&cache_seconds=60" alt="KIWOLY GitHub Stats"/>
-  <img src="https://github-readme-trophy.vercel.app/?username=KIWOLY&theme=onedark" alt="KIWOLY GitHub Trophies"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=KIWOLY&show_icons=true&count_private=true&theme=radical&hide_title=true&cache_seconds=1800" alt="KIWOLY GitHub Stats"/>
+  <br>
+  <img src="https://github-readme-trophy.vercel.app/?username=KIWOLY&theme=onedark&column=4" alt="KIWOLY GitHub Trophies"/>
 </div>
 
-<!-- Full badge at bottom -->
+
+## Committers Rank in Tanzania (2025)
 [![committers.top badge](https://user-badge.committers.top/tanzania/KIWOLY.svg)](https://user-badge.committers.top/tanzania/KIWOLY)
 
 ## Connect with Me
