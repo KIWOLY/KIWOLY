@@ -3,7 +3,7 @@
 
 <div align="center">
   <h1 style="font-size: 2.6rem; font-weight: bold;">Innocent John Kiwoly</h1>
-    [![committers.top badge](https://user-badge.committers.top/tanzania/KIWOLY.svg)](https://user-badge.committers.top/tanzania/KIWOLY) 
+[![committers.top badge](https://user-badge.committers.top/tanzania/KIWOLY.svg)](https://user-badge.committers.top/tanzania/KIWOLY)
   <p style="font-size: 1.2rem;">Third-Year Information Systems Management Student at Ardhi University</p>
 
   
