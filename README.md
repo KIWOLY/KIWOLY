@@ -32,7 +32,7 @@ I’m always eager to learn new technologies, collaborate on exciting projects, 
 
 ## Committers Rank in Tanzania (2025)
 [![committers.top badge](https://user-badge.committers.top/tanzania/KIWOLY.svg)](https://user-badge.committers.top/tanzania/KIWOLY)
-[![committers.top badge](https://user-badge.committers.top/tanzania/KIWOLY.svg)](https://user-badge.committers.top/tanzania/KIWOLY)
+
 
 
 ## Connect with Me
