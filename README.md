@@ -1,8 +1,9 @@
-
 # Welcome to My GitHub Profile!
 <div align="center">
   <h1 style="font-size: 2.6rem; font-weight: bold;">Innocent John Kiwoly</h1>
 
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=KIWOLY&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views"/>
 
   <p style="font-size: 1.2rem;">Third-Year Information Systems Management Student at Ardhi University</p>
 </div>
@@ -29,11 +30,15 @@ I’m always eager to learn new technologies, collaborate on exciting projects, 
   <img src="https://github-readme-trophy.vercel.app/?username=KIWOLY&theme=onedark&column=4" alt="KIWOLY GitHub Trophies"/>
 </div>
 
+## Contribution Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KIWOLY&theme=react-dark&hide_border=true" alt="KIWOLY Activity Graph"/>
+</div>
+
+
 
 ## Committers Rank in Tanzania (2025)
 [![committers.top badge](https://user-badge.committers.top/tanzania/KIWOLY.svg)](https://user-badge.committers.top/tanzania/KIWOLY)
-
-
 
 ## Connect with Me
 <div align="center">
