@@ -30,6 +30,7 @@ I’m always eager to learn new technologies, collaborate on exciting projects, 
   <img src="https://github-readme-trophy.vercel.app/?username=KIWOLY&theme=onedark&column=4" alt="KIWOLY GitHub Trophies"/>
 </div>
 
+
 ## Contribution Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KIWOLY&theme=react-dark&hide_border=true" alt="KIWOLY Activity Graph"/>
