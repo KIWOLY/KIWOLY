@@ -2,10 +2,9 @@
 <div align="center">
   <h1 style="font-size: 2.6rem; font-weight: bold;">Innocent John Kiwoly</h1>
 
-  <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=KIWOLY&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views"/>
 
-  <p style="font-size: 1.2rem;">Third-Year Information Systems Management Student at Ardhi University</p>
+
+  <p style="font-size: 1.6rem;">Third-Year Information Systems Management Student at Ardhi University</p>
 </div>
 
 ## About Me
