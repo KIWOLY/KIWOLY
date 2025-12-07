@@ -12,12 +12,13 @@ I’m always eager to learn new technologies, collaborate on exciting projects, 
 
 ## Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,python,django,postgresql,flutter,iot" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,python,django,postgresql,flutter,iot,devops" alt="Tech Stack"/>
 </div>
 
 - **Frontend**: HTML, CSS, Tailwind CSS, JavaScript, React, Flutter  
 - **Backend**: Python, Django REST Framework, GraphQL  
-- **Database**: PostgreSQL  
+- **Database**: PostgreSQL
+- DevOps / Deployment: Docker, GitHub Actions, CI/CD, Linux, Nginx
 - **Interests**: Web Development, Mobile Development, IoT development, LoRaWAN Technology, Gateway Technology.
 
 ## GitHub Stats
