@@ -20,15 +20,7 @@ I’m always eager to learn new technologies, collaborate on exciting projects, 
 - **Database**: PostgreSQL
 - DevOps / Deployment: Docker, GitHub Actions, CI/CD, Linux, Nginx
 - **Interests**: Web Development, Mobile Development, IoT development, LoRaWAN Technology, Gateway Technology.
-## GitHub Stats
 
-<div align="center">
-
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kiwoly&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-
- 
-
-</div>
 
 
 ## Committers Rank in Tanzania (2025)
