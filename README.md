@@ -24,13 +24,12 @@ I’m always eager to learn new technologies, collaborate on exciting projects, 
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=kiwoly&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="kiwoly's GitHub Stats" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kiwoly&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
 
-  <br/><br/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiwoly&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="kiwoly's Top Languages" />
+ 
 
 </div>
+
 
 ## Committers Rank in Tanzania (2025)
 [![committers.top badge](https://user-badge.committers.top/tanzania/KIWOLY.svg)](https://user-badge.committers.top/tanzania/KIWOLY)
