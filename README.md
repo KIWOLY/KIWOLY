@@ -30,8 +30,8 @@ I’m always eager to learn new technologies, collaborate on exciting projects, 
 <div align="center">
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=KIWOLY&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="165" />
-  <!-- Streak Stats (reliable version) -->
-  <img src="https://streak-stats.demolab.com?user=KIWOLY&theme=tokyonight&hide_border=true" height="165" />
+  <!-- Streak Stats (working alternative) -->
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=KIWOLY&theme=tokyonight&hide_border=true" height="165" />
 </div>
 <div align="center">
   <!-- Top Languages -->
