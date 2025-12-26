@@ -26,7 +26,28 @@ I’m always eager to learn new technologies, collaborate on exciting projects, 
 ## Committers Rank in Tanzania (2025)
 [![committers.top badge](https://user-badge.committers.top/tanzania/KIWOLY.svg)](https://user-badge.committers.top/tanzania/KIWOLY)
 
+## 📊 GitHub Statistics
+<div align="center">
 
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=KIWOLY&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+
+<!-- GitHub Streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KIWOLY&theme=tokyonight&hide_border=true" height="165" />
+
+</div>
+
+<div align="center">
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KIWOLY&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+
+</div>
+
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KIWOLY&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&row=1&column=6" />
+</div>
 
 
 ## Connect with Me
