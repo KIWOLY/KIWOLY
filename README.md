@@ -10,6 +10,8 @@ I’m a passionate third-year student at **Ardhi University**, pursuing a degree
 
 I’m always eager to learn new technologies, collaborate on exciting projects, and contribute to the tech community. Let’s connect and create something amazing together!
 
+I build IoT-backed platforms and APIs using Django.
+
 ## Tech Stack
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,python,django,postgresql,flutter,iot,devops" alt="Tech Stack"/>
