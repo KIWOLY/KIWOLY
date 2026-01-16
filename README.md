@@ -6,11 +6,13 @@
 </div>
 
 ## About Me
-I’m a passionate third-year student at **Ardhi University**, pursuing a degree in **Information Systems Management**. I’m enthusiastic about leveraging technology to solve real-world problems through **web development**, **mobile development**, **LoRaWAN technology**, and **gateway technology**. My goal is to build innovative, user-friendly solutions that make a difference.
+I’m a passionate third-year student at Ardhi University, pursuing a degree in Information Systems Management. I’m enthusiastic about leveraging technology to solve real-world problems through web development, mobile development, IoT systems, LoRaWAN technology, gateway technology, and DevOps practices.
+
+My goal is to build innovative, scalable, and user-friendly solutions that make a real-world impact. I enjoy working across the full stack—from designing reliable backend systems to deploying and maintaining applications using modern DevOps tools and workflows.
 
 I’m always eager to learn new technologies, collaborate on exciting projects, and contribute to the tech community. Let’s connect and create something amazing together!
 
-I build IoT-backed platforms and APIs using Django.
+I build IoT-backed platforms and APIs using Django, with experience in deployment, containerization, and system reliability.
 
 ## Tech Stack
 <div align="center">
