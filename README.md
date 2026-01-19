@@ -30,6 +30,13 @@ I build IoT-backed platforms and APIs using Django, with experience in deploymen
 ## Committers Rank in Tanzania (2025)
 [![committers.top badge](https://user-badge.committers.top/tanzania/KIWOLY.svg)](https://user-badge.committers.top/tanzania/KIWOLY)
 
+## 📊 GitHub Stats
+
+![KIWOLY's GitHub stats](https://github-readme-stats.vercel.app/api?username=KIWOLY&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+
+
+<!-- Top languages card (compact style) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KIWOLY&layout=compact&theme=dracula&hide_border=true)
 
 
 ## Connect with Me
