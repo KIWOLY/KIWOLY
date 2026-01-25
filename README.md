@@ -22,8 +22,8 @@ I build IoT-backed platforms and APIs using Django, with experience in deploymen
 - **Frontend**: HTML, CSS, Tailwind CSS, JavaScript, React, Flutter  
 - **Backend**: Python, Django REST Framework, GraphQL  
 - **Database**: PostgreSQL
-- DevOps / Deployment: Docker, GitHub Actions, CI/CD, Linux, Nginx
-- **Interests**: Web Development, Mobile Development, IoT development, LoRaWAN Technology, Gateway Technology.
+- DevOps / Deployment: Git, Github, Docker, GitHub Actions, CI/CD, Linux, Nginx
+- **Interests**: Devops, Web Development, Mobile Development, IoT development, LoRaWAN Technology, Gateway Technology.
 
 
 
