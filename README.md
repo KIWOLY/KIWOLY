@@ -30,7 +30,15 @@ I build IoT-backed platforms and APIs using Django, with experience in deploymen
 ## Committers Rank in Tanzania (2025)
 [![committers.top badge](https://user-badge.committers.top/tanzania/KIWOLY.svg)](https://user-badge.committers.top/tanzania/KIWOLY)
 
+## 2025 International Experience & Collaboration
+- **Blended Intensive Programme (BIP) – Belgium**
+- Participated in an international project hosted in Belgium.
+- Worked with students from 9 countries to solve a real-world learning problem.
 
+
+## Community
+
+- **ByteUjamaa Organization** – Coordinated IT knowledge sharing among students
 
 
 ## Connect with Me
