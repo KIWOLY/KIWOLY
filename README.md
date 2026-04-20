@@ -1,55 +1,92 @@
-# Welcome to My GitHub Profile!
+#  Welcome to My GitHub Profile
 
 <div align="center">
   <h1>Innocent John Kiwoly</h1>
-  <p>Third-Year Information Systems Management Student at Ardhi University</p>
+  <p>Software & DevOps Engineer in Progress | Ardhi University</p>
 </div>
 
-## About Me
-I’m a passionate third-year student at Ardhi University, pursuing a degree in Information Systems Management. I’m enthusiastic about leveraging technology to solve real-world problems through web development, mobile development, IoT systems, LoRaWAN technology, gateway technology, and DevOps practices.
 
-My goal is to build innovative, scalable, and user-friendly solutions that make a real-world impact. I enjoy working across the full stack—from designing reliable backend systems to deploying and maintaining applications using modern DevOps tools and workflows.
 
-I’m always eager to learn new technologies, collaborate on exciting projects, and contribute to the tech community. Let’s connect and create something amazing together!
+##  About Me
 
-I build IoT-backed platforms and APIs using Django, with experience in deployment, containerization, and system reliability.
+I am a passionate Software & DevOps Engineer in progress and a third-year student at Ardhi University, studying Information Systems Management.
 
-## Tech Stack
+I specialize in building **scalable web applications and cloud-ready systems** using modern DevOps practices.
+
+My focus areas include:
+- Full-Stack Web Development  
+- DevOps Engineering & Automation  
+- Cloud Infrastructure & Deployment  
+
+I enjoy turning ideas into real-world systems that are reliable, scalable, and production-ready.
+
+
+
+##  Tech Stack
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,python,django,postgresql,flutter,iot,devops" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,django,postgresql,flutter,docker,kubernetes,linux,github" />
 </div>
 
-- **Frontend**: HTML, CSS, Tailwind CSS, JavaScript, React, Flutter  
-- **Backend**: Python, Django REST Framework, GraphQL  
-- **Database**: PostgreSQL
-- DevOps / Deployment: Git, Github, Docker, GitHub Actions, CI/CD, Linux, Nginx
-- **Interests**: Devops, Web Development, Mobile Development, IoT development, LoRaWAN Technology, Gateway Technology.
+
+
+### 💻 Backend & Frontend
+- Django, Django REST Framework  
+- React, HTML, CSS, JavaScript  
+- Flutter  
+
+### ☁️ DevOps & Cloud
+- Docker  
+- Kubernetes  
+- CI/CD (GitHub Actions)  
+- Linux  
+- Git & GitHub  
+- Nginx  
+
+### 🗄️ Database
+- PostgreSQL  
 
 
 
-## Committers Rank in Tanzania (2025)
+## 🌍 Experience & Exposure
+
+### 🇧🇪 International Collaboration (Belgium)
+- Participated in Blended Intensive Programme (BIP)
+- Worked with students from 9 countries on a real-world project
+- Improved teamwork, problem-solving, and global collaboration skills
+
+
+
+## 🏢 Community Work
+
+**ByteUjamaa Organization**
+- Coordinated IT knowledge sharing among students  
+- Supported peer learning in software development  
+
+
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KIWOLY&show_icons=true&theme=default)
+
+
+
+## 📈 Committers Rank in Tanzania (2025)
+
 [![committers.top badge](https://user-badge.committers.top/tanzania/KIWOLY.svg)](https://user-badge.committers.top/tanzania/KIWOLY)
 
-## 2025 International Experience & Collaboration
-- **Blended Intensive Programme (BIP) – Belgium**
-- Participated in an international project hosted in Belgium.
-- Worked with students from 9 countries to solve a real-world learning problem.
 
 
-## Community
+## 📬 Connect with Me
 
-- **ByteUjamaa Organization** – Coordinated IT knowledge sharing among students
-
-
-## Connect with Me
 <div align="center">
   <a href="https://www.linkedin.com/in/innocent-kiwoly">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/iaminnoh_john">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://www.facebook.com/innocent.kiwoly">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
 </div>
