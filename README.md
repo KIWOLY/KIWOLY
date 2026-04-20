@@ -2,7 +2,7 @@
 
 <div align="center">
   <h1>Innocent John Kiwoly</h1>
-  <p>Software & DevOps Engineer in Progress | Ardhi University</p>
+  <p>Software & DevOps Engineer. </p>
 </div>
 
 
@@ -39,9 +39,11 @@ I enjoy turning ideas into real-world systems that are reliable, scalable, and p
 - Docker  
 - Kubernetes  
 - CI/CD (GitHub Actions)  
+- Terraform (Infrastructure as Code)  
+- Oracle Cloud Infrastructure (OCI)  
 - Linux  
 - Git & GitHub  
-- Nginx  
+- Nginx   
 
 ### 🗄️ Database
 - PostgreSQL  
