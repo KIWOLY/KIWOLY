@@ -67,11 +67,6 @@ I enjoy turning ideas into real-world systems that are reliable, scalable, and p
 
 
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KIWOLY&show_icons=true&theme=default)
-
-
 
 ## 📈 Committers Rank in Tanzania (2025)
 
