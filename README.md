@@ -68,9 +68,6 @@ I enjoy turning ideas into real-world systems that are reliable, scalable, and p
 
 
 
-## 📈 Committers Rank in Tanzania (2025)
-
-[![committers.top badge](https://user-badge.committers.top/tanzania/KIWOLY.svg)](https://user-badge.committers.top/tanzania/KIWOLY)
 
 
 
