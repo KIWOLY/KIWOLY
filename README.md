@@ -52,10 +52,5 @@ I'm currently the backend developer behind **Stays**, a property discovery platf
   <a href="https://kiwoly.tlms.live">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/iaminnoh_john">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://www.facebook.com/innocent.kiwoly">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
+  
 </div>
