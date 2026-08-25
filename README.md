@@ -5,7 +5,7 @@
 </div>
 
 ## About Me
-I build scalable backend systems and the cloud infrastructure that runs them — end-to-end, from code to deployment. I work across Django/REST APIs on one side and AWS, Docker, Kubernetes, and Terraform on the other, so what I build is production-ready, not just "working on my machine."
+I build scalable backend systems and the cloud infrastructure that runs them  end-to-end, from code to deployment. I work across Django/REST APIs on one side and AWS, Docker, Kubernetes, and Terraform on the other, so what I build is production-ready, not just "working on my machine."
 
 My focus areas:
 - 💻 Backend Development (Django, REST APIs, PostgreSQL)
